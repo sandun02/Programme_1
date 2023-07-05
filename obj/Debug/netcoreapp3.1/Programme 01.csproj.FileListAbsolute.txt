@@ -1,0 +1,27 @@
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.exe
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.deps.json
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.runtimeconfig.json
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.runtimeconfig.dev.json
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.dll
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.pdb
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.csprojAssemblyReference.cache
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.AssemblyInfoInputs.cache
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.AssemblyInfo.cs
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.csproj.CoreCompileInputs.cache
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.dll
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.pdb
+C:\Users\Sadun\OneDrive\Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.genruntimeconfig.cache
+E:\My Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.exe
+E:\My Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.deps.json
+E:\My Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.runtimeconfig.json
+E:\My Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.runtimeconfig.dev.json
+E:\My Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.dll
+E:\My Documents\SANDUN\My visual basics\Programme 01\bin\Debug\netcoreapp3.1\Programme 01.pdb
+E:\My Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.csproj.AssemblyReference.cache
+E:\My Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.AssemblyInfoInputs.cache
+E:\My Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.AssemblyInfo.cs
+E:\My Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.csproj.CoreCompileInputs.cache
+E:\My Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.dll
+E:\My Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.pdb
+E:\My Documents\SANDUN\My visual basics\Programme 01\obj\Debug\netcoreapp3.1\Programme 01.genruntimeconfig.cache
